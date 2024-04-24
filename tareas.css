@@ -1,0 +1,19 @@
+.listatareas {
+    background-color: gainsboro;
+    border: 1px;
+    border-color: black;
+}
+
+.tarea {
+    margin-bottom: 5px;
+    background-color: #dbd5d5;
+    padding: 10px;
+}
+
+.tarea.completed {
+    background-color: rgb(40, 253, 40);
+}
+
+.tarea.deleted {
+    background-color: rgb(228, 48, 48);
+}
